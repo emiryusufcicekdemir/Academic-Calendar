@@ -3,27 +3,27 @@ Academic Calendar Web Application
 
 This is a web application built with Django that allows users to view an academic calendar. The application includes an admin panel where CRUD (Create, Read, Update, Delete) operations can be performed on calendar events.
 
-Features
+##Features
 
-View academic calendar events
+-View academic calendar events
 
-Admin panel for managing events
+-Admin panel for managing events
 
-CRUD operations on events (Create, Read, Update, Delete)
+-CRUD operations on events (Create, Read, Update, Delete)
 
-User-friendly interface
+-User-friendly interface
 
-Technologies Used
+##Technologies Used
 
-Python
+-Python
 
-Django
+-Django
 
-SQLite
+-SQLite
 
-HTML/CSS
+-HTML/CSS
 
-Installation
+##Installation
 
 Clone the repository
 
@@ -43,9 +43,3 @@ python manage.py migrate
 Run the development server:
 
 python manage.py runserver
-
-Access the application:
-
-Academic Calendar: http://127.0.0.1:8000/
-
-Admin Panel: http://127.0.0.1:8000/admin/
